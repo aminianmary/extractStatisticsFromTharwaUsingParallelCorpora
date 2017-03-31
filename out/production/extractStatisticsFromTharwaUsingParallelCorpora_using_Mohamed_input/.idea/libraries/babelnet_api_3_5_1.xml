@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="babelnet-api-3.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-3.5.1/babelnet-api-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,141 @@
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /Users/monadiab/Codes/IdeaProjects/extractStatisticsFromTharwaUsingParallelCorpora_using_Mohamed_input/config/babelnet.properties
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CECILL_C
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CECILL_C
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CECILL_C
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_APACHE_20
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_APACHE_20
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_APACHE_20
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_NC_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_NC_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_NC_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_MLP
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_MLP
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_MLP
+[ INFO  ] n - Using BabelNet v3.6
+[ INFO  ] n - Opening mapping index
+[ INFO  ] n - Opening graph index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/graph_CC_BY_NC_SA_30
+[ INFO  ] n - Opening image index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/image
+[ INFO  ] n - Opening info index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/info_CC_BY_NC_SA_30
+[ INFO  ] BabelNet - BabelNet offline API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /Users/monadiab/Codes/IdeaProjects/extractStatisticsFromTharwaUsingParallelCorpora_using_Mohamed_input/config/babelnet.properties
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CECILL_C
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CECILL_C
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CECILL_C
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_APACHE_20
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_APACHE_20
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_APACHE_20
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_NC_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_NC_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_NC_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_MLP
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_MLP
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_MLP
+[ INFO  ] n - Using BabelNet v3.6
+[ INFO  ] n - Opening mapping index
+[ INFO  ] n - Opening graph index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/graph_CC_BY_NC_SA_30
+[ INFO  ] n - Opening image index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/image
+[ INFO  ] n - Opening info index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/info_CC_BY_NC_SA_30
+[ INFO  ] BabelNet - BabelNet offline API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+[ ERROR ] Properties - Unable to load resource from file clean-utf8-MAP
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /Users/monadiab/Codes/IdeaProjects/extractStatisticsFromTharwaUsingParallelCorpora_using_Mohamed_input/config/babelnet.properties
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CECILL_C
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CECILL_C
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CECILL_C
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_APACHE_20
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_APACHE_20
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_APACHE_20
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_NC_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_NC_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_NC_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_MLP
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_MLP
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_MLP
+[ INFO  ] n - Using BabelNet v3.6
+[ INFO  ] n - Opening mapping index
+[ INFO  ] n - Opening graph index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/graph_CC_BY_NC_SA_30
+[ INFO  ] n - Opening image index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/image
+[ INFO  ] n - Opening info index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/info_CC_BY_NC_SA_30
+[ INFO  ] BabelNet - BabelNet offline API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /Users/monadiab/Codes/IdeaProjects/extractStatisticsFromTharwaUsingParallelCorpora_using_Mohamed_input/config/babelnet.properties
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CECILL_C
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CECILL_C
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CECILL_C
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_APACHE_20
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_APACHE_20
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_APACHE_20
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_NC_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_NC_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_NC_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_MLP
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_MLP
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_MLP
+[ INFO  ] n - Using BabelNet v3.6
+[ INFO  ] n - Opening mapping index
+[ INFO  ] n - Opening graph index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/graph_CC_BY_NC_SA_30
+[ INFO  ] n - Opening image index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/image
+[ INFO  ] n - Opening info index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/info_CC_BY_NC_SA_30
+[ INFO  ] BabelNet - BabelNet offline API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella
+[ INFO  ] BabelNetConfiguration - Loading babelnet.properties FROM /Users/monadiab/Codes/IdeaProjects/extractStatisticsFromTharwaUsingParallelCorpora_using_Mohamed_input/config/babelnet.properties
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CECILL_C
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CECILL_C
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CECILL_C
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_APACHE_20
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_APACHE_20
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_APACHE_20
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_CC_BY_NC_SA_30
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_CC_BY_NC_SA_30
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_CC_BY_NC_SA_30
+[ INFO  ] n - Opening lexicon index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/lexicon_MLP
+[ INFO  ] n - Opening dict index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/dict_MLP
+[ INFO  ] n - Opening gloss index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/gloss_MLP
+[ INFO  ] n - Using BabelNet v3.6
+[ INFO  ] n - Opening mapping index
+[ INFO  ] n - Opening graph index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/graph_CC_BY_NC_SA_30
+[ INFO  ] n - Opening image index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/image
+[ INFO  ] n - Opening info index: /Users/monadiab/Data/babelnet-3.6-index-bundle/BabelNet-3.6/info_CC_BY_NC_SA_30
+[ INFO  ] BabelNet - BabelNet offline API v3.6 written by Francesco Cecconi, Roberto Navigli and Daniele Vannella

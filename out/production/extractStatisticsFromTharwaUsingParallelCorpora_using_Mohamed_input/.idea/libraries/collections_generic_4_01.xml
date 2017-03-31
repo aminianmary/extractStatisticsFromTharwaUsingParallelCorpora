@@ -1,0 +1,43 @@
+<component name="libraryTable">
+  <library name="collections-generic-4.01">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/collections-generic-4.01.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-beanutils.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-configuration-1.5.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-httpclient-3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-io-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-lang-2.4.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/google-collections-20080820.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/httpclient-4.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/httpcore-4.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jbzip2-0.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/je-4.1.6.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jena-arq-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jena-core-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jena-iri-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jena-sdb-1.4.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jena-tdb-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jgrapht-0.8.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jlt-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jung-algorithms-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jung-api-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jung-graph-impl-2.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/jwi-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/log4j-1.2.14.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/lucene-core-2.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/mysql-connector-java-5.1.12-bin.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/omegawiki-api-0.1alpha.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/omegawiki-api-v2.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/owlapi-distribution-3.4.8.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/slf4j-api-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/slf4j-log4j12-1.6.4.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/xercesImpl-2.11.0.jar!/" />
+      <root url="jar://$USER_HOME$/Tools/BabelNet-API-2.5.1/lib/xml-apis-1.4.01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
