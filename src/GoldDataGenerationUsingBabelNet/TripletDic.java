@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by monadiab on 5/3/16.
+ * Created by Maryam Aminian on 5/3/16.
  */
 public class TripletDic {
     HashSet<String> EGY_words;

@@ -12,7 +12,7 @@ import java.util.*;
 import java.io.*;
 
 /**
- * Created by monadiab on 2/10/16.
+ * Created by Maryam Aminian on 2/10/16.
  */
 public class GenerateGoldDataUsingBabelNet {
 

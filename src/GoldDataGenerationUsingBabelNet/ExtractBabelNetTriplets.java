@@ -10,7 +10,7 @@ import java.util.HashSet;
 import java.util.List;
 
 /**
- * Created by monadiab on 4/29/16.
+ * Created by Maryam Aminian on 4/29/16.
  */
 public class ExtractBabelNetTriplets {
 
